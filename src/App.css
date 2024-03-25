@@ -1,0 +1,23 @@
+* {
+  /* text-align: center; */
+  margin-left: 5px;
+  background-color: rgb(166, 224, 215);
+ 
+}
+.square{
+ height: 50px;
+ width: 50px;
+/* margin: 12px; */
+}
+
+.App-header {
+  background-color: #3768c9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
